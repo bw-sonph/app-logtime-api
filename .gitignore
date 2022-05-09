@@ -12,7 +12,8 @@ docs/
 dst/**/*.js.map
 
 .googleappengine/*
-secrets.json
+secret-dev.json
+secret-prod.json
 
 !.gitignore
 !.gitkeep
