@@ -1,0 +1,4 @@
+dst
+docker
+node_modules
+.*
